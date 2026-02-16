@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Wishes",
+  "description": "A premium e-commerce platform for curated gifts and essentials with a sophisticated brown-to-black aesthetic, featuring dynamic cart management and a seamless checkout experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
